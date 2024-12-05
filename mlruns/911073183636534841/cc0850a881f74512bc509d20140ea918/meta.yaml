@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/omoma/Project2%20internship/mlruns/911073183636534841/cc0850a881f74512bc509d20140ea918/artifacts
+end_time: 1733324234143
+entry_point_name: ''
+experiment_id: '911073183636534841'
+lifecycle_stage: active
+run_id: cc0850a881f74512bc509d20140ea918
+run_name: loud-shark-161
+run_uuid: cc0850a881f74512bc509d20140ea918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733324221552
+status: 3
+tags: []
+user_id: omoma
